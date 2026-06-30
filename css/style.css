@@ -36,3 +36,7 @@ button {
   margin: 0;
   box-sizing: border-box;
 }
+
+header {
+  background-color: black;
+}
