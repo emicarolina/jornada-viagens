@@ -41,7 +41,6 @@ nav {
 
 .list-links {
   list-style: none;
-  font-weight: var(--menu-text-weight);
 }
 
 .list-links li {
@@ -108,6 +107,6 @@ nav {
 
 @media screen and (min-width: 1920px) {
   .main-header {
-    padding: 38px 165px;
+    padding: 38px 160px;
   }
 }
